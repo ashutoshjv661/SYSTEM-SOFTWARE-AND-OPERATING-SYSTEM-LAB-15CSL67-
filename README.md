@@ -4,6 +4,7 @@ All lab programs 15CSL67 as per VTU syllabus
 1. a) Write a LEX program to recognize valid arithmetic expression. Identifiers in the
 expression could be only integers and operators could be + and *. Count the
 identifiers & operators present and print them separately.
+
 b) Write YACC program to evaluate arithmetic expression involving operators:
 *, and /
 +, -,
@@ -28,6 +29,7 @@ A = T3
 
 6. a) Write a LEX program to eliminate comment lines in a C program and copy the
 resulting program into a separate file.
+
 b) Write YACC program to recognize valid identifier, operators and keywords in the
 given text (C program) file.
 
